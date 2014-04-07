@@ -1,0 +1,8 @@
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Dao\bin\Debug\PersonalBlogging.Dao.dll
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Dao\bin\Debug\PersonalBlogging.Dao.pdb
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Dao\bin\Debug\EntityFramework.dll
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Dao\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Dao\bin\Debug\EntityFramework.xml
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Dao\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Dao\obj\Debug\PersonalBlogging.Dao.dll
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Dao\obj\Debug\PersonalBlogging.Dao.pdb

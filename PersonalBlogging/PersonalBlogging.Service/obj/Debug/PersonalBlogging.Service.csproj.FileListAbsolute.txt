@@ -1,0 +1,11 @@
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\obj\Debug\PersonalBlogging.Service.csprojResolveAssemblyReference.cache
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\PersonalBlogging.Service.dll
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\PersonalBlogging.Service.pdb
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\Nt.Dao.dll
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\PersonalBlogging.Domain.dll
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\EntityFramework.dll
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\Nt.Dao.pdb
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\PersonalBlogging.Domain.pdb
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\EntityFramework.xml
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\obj\Debug\PersonalBlogging.Service.dll
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\obj\Debug\PersonalBlogging.Service.pdb
