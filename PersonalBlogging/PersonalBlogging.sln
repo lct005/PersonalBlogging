@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalBlogging.Domain", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalBlogging.Dao", "PersonalBlogging.Dao\PersonalBlogging.Dao.csproj", "{4A640B13-C77F-4E5E-878B-B9C1964D01A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nt.Common", "Nt.Common\Nt.Common.csproj", "{127D4940-D257-4A22-B708-DDF78C5207CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{4A640B13-C77F-4E5E-878B-B9C1964D01A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A640B13-C77F-4E5E-878B-B9C1964D01A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A640B13-C77F-4E5E-878B-B9C1964D01A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{127D4940-D257-4A22-B708-DDF78C5207CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127D4940-D257-4A22-B708-DDF78C5207CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127D4940-D257-4A22-B708-DDF78C5207CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127D4940-D257-4A22-B708-DDF78C5207CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,5 +58,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{4F1A1179-AADF-46DA-953C-38D22917DB4E} = {66615370-1EA4-439F-86F5-A1291AA15B2A}
 		{509617A1-63C5-4464-8C8D-E77A7A3D1F0C} = {66615370-1EA4-439F-86F5-A1291AA15B2A}
+		{127D4940-D257-4A22-B708-DDF78C5207CE} = {66615370-1EA4-439F-86F5-A1291AA15B2A}
 	EndGlobalSection
 EndGlobal

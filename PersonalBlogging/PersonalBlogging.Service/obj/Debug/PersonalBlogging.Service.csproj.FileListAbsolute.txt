@@ -9,3 +9,14 @@ D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\P
 D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\EntityFramework.xml
 D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\obj\Debug\PersonalBlogging.Service.dll
 D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\obj\Debug\PersonalBlogging.Service.pdb
+D:\Projects\lct-repo\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\PersonalBlogging.Service.dll
+D:\Projects\lct-repo\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\PersonalBlogging.Service.pdb
+D:\Projects\lct-repo\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\Nt.Dao.dll
+D:\Projects\lct-repo\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\PersonalBlogging.Domain.dll
+D:\Projects\lct-repo\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\EntityFramework.dll
+D:\Projects\lct-repo\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\Nt.Dao.pdb
+D:\Projects\lct-repo\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\PersonalBlogging.Domain.pdb
+D:\Projects\lct-repo\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\EntityFramework.xml
+D:\Projects\lct-repo\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\obj\Debug\PersonalBlogging.Service.csprojResolveAssemblyReference.cache
+D:\Projects\lct-repo\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\obj\Debug\PersonalBlogging.Service.dll
+D:\Projects\lct-repo\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\obj\Debug\PersonalBlogging.Service.pdb
