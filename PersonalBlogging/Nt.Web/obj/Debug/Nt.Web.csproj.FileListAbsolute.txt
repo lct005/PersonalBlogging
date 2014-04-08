@@ -3,3 +3,8 @@ D:\GitHub\PersonalBlogging\PersonalBlogging\Nt.Web\bin\Debug\Nt.Web.pdb
 D:\GitHub\PersonalBlogging\PersonalBlogging\Nt.Web\obj\Debug\Nt.Web.csprojResolveAssemblyReference.cache
 D:\GitHub\PersonalBlogging\PersonalBlogging\Nt.Web\obj\Debug\Nt.Web.dll
 D:\GitHub\PersonalBlogging\PersonalBlogging\Nt.Web\obj\Debug\Nt.Web.pdb
+D:\Projects\lct-repo\PersonalBlogging\PersonalBlogging\Nt.Web\bin\Debug\Nt.Web.dll
+D:\Projects\lct-repo\PersonalBlogging\PersonalBlogging\Nt.Web\bin\Debug\Nt.Web.pdb
+D:\Projects\lct-repo\PersonalBlogging\PersonalBlogging\Nt.Web\obj\Debug\Nt.Web.csprojResolveAssemblyReference.cache
+D:\Projects\lct-repo\PersonalBlogging\PersonalBlogging\Nt.Web\obj\Debug\Nt.Web.dll
+D:\Projects\lct-repo\PersonalBlogging\PersonalBlogging\Nt.Web\obj\Debug\Nt.Web.pdb

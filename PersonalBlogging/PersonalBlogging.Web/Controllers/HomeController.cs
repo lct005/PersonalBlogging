@@ -18,5 +18,10 @@ namespace PersonalBlogging.Web.Controllers
             pbService.AddBlog(new Post(){ Title = "test"});
             return View();
         }
+		
+		public ActionResult Get()
+        {
+            return View();
+        }
 	}
 }
