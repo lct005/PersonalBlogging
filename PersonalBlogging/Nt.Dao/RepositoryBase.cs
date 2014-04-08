@@ -1,4 +1,5 @@
-﻿using System.Data.Entity;
+﻿using System;
+using System.Data.Entity;
 using System.Data.Entity.Infrastructure;
 using System.Diagnostics.Contracts;
 using System.Linq;
@@ -79,5 +80,6 @@ namespace Nt.Dao
         {
             return this.DbContext.SaveChanges();
         }
+
     }
 }

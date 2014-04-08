@@ -9,3 +9,7 @@ D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\P
 D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\EntityFramework.xml
 D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\obj\Debug\PersonalBlogging.Service.dll
 D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\obj\Debug\PersonalBlogging.Service.pdb
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\Nt.Contract.dll
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\PersonalBlogging.Dao.dll
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\Nt.Contract.pdb
+D:\GitHub\PersonalBlogging\PersonalBlogging\PersonalBlogging.Service\bin\Debug\PersonalBlogging.Dao.pdb

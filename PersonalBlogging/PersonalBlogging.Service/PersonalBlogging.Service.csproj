@@ -30,6 +30,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -39,25 +43,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BlogService.cs" />
-    <Compile Include="Interfaces\IBlogService.cs" />
-    <Compile Include="Interfaces\IService.cs" />
+    <Compile Include="PostService.cs" />
+    <Compile Include="PersonalBlogService.cs" />
+    <Compile Include="IPersonalBlogService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ServiceBase.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Nt.Contract\Nt.Contract.csproj">
+      <Project>{5DB988AE-76E8-40B2-A83D-BB862DBC79EF}</Project>
+      <Name>Nt.Contract</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Nt.Dao\Nt.Dao.csproj">
       <Project>{509617A1-63C5-4464-8C8D-E77A7A3D1F0C}</Project>
       <Name>Nt.Dao</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PersonalBlogging.Dao\PersonalBlogging.Dao.csproj">
+      <Project>{4A640B13-C77F-4E5E-878B-B9C1964D01A3}</Project>
+      <Name>PersonalBlogging.Dao</Name>
     </ProjectReference>
     <ProjectReference Include="..\PersonalBlogging.Domain\PersonalBlogging.Domain.csproj">
       <Project>{37A8B2EF-01A1-42AF-8D0C-8F5B1F90F38E}</Project>
       <Name>PersonalBlogging.Domain</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Models\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

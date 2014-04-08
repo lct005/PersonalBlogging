@@ -1,0 +1,5 @@
+D:\GitHub\PersonalBlogging\PersonalBlogging\Nt.Contract\bin\Debug\Nt.Contract.dll
+D:\GitHub\PersonalBlogging\PersonalBlogging\Nt.Contract\bin\Debug\Nt.Contract.pdb
+D:\GitHub\PersonalBlogging\PersonalBlogging\Nt.Contract\obj\Debug\Nt.Contract.csprojResolveAssemblyReference.cache
+D:\GitHub\PersonalBlogging\PersonalBlogging\Nt.Contract\obj\Debug\Nt.Contract.dll
+D:\GitHub\PersonalBlogging\PersonalBlogging\Nt.Contract\obj\Debug\Nt.Contract.pdb

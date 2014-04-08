@@ -47,9 +47,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BlogContext.cs" />
-    <Compile Include="BlogContextInitialer.cs" />
+    <Compile Include="PersonalBlogContext.cs" />
+    <Compile Include="PersonalBlogContextInitialer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Nt.Contract\Nt.Contract.csproj">
+      <Project>{5DB988AE-76E8-40B2-A83D-BB862DBC79EF}</Project>
+      <Name>Nt.Contract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PersonalBlogging.Domain\PersonalBlogging.Domain.csproj">
+      <Project>{37A8B2EF-01A1-42AF-8D0C-8F5B1F90F38E}</Project>
+      <Name>PersonalBlogging.Domain</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

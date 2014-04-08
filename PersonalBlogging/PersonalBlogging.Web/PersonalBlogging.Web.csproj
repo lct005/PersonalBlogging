@@ -7,7 +7,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{93700F67-96C6-4416-A32A-0B4A0114B0EC}</ProjectGuid>
+    <ProjectGuid>{C5717B70-E85D-4D05-B92D-4D73552EF173}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -38,6 +38,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -128,6 +135,24 @@
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Nt.Contract\Nt.Contract.csproj">
+      <Project>{5db988ae-76e8-40b2-a83d-bb862dbc79ef}</Project>
+      <Name>Nt.Contract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PersonalBlogging.Dao\PersonalBlogging.Dao.csproj">
+      <Project>{4a640b13-c77f-4e5e-878b-b9c1964d01a3}</Project>
+      <Name>PersonalBlogging.Dao</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PersonalBlogging.Domain\PersonalBlogging.Domain.csproj">
+      <Project>{37a8b2ef-01a1-42af-8d0c-8f5b1f90f38e}</Project>
+      <Name>PersonalBlogging.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PersonalBlogging.Service\PersonalBlogging.Service.csproj">
+      <Project>{940aba83-e173-42ab-8c02-657abc289827}</Project>
+      <Name>PersonalBlogging.Service</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
@@ -143,7 +168,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>0</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:47463/</IISUrl>
+          <IISUrl>http://localhost:56424/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

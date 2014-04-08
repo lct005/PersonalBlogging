@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
+using PersonalBlogging.Dao;
 
 namespace PersonalBlogging.Web
 {
@@ -13,6 +15,7 @@ namespace PersonalBlogging.Web
         {
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
+            Database.SetInitializer(new PersonalBlogContextInitialer());
         }
     }
 }
