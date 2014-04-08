@@ -1,5 +1,0 @@
-D:\Projects\lct-repo\PersonalBlogging\PersonalBlogging\Nt.Common\bin\Debug\Nt.Common.dll
-D:\Projects\lct-repo\PersonalBlogging\PersonalBlogging\Nt.Common\bin\Debug\Nt.Common.pdb
-D:\Projects\lct-repo\PersonalBlogging\PersonalBlogging\Nt.Common\obj\Debug\Nt.Common.csprojResolveAssemblyReference.cache
-D:\Projects\lct-repo\PersonalBlogging\PersonalBlogging\Nt.Common\obj\Debug\Nt.Common.dll
-D:\Projects\lct-repo\PersonalBlogging\PersonalBlogging\Nt.Common\obj\Debug\Nt.Common.pdb
